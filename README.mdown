@@ -1,0 +1,6 @@
+#RandoMath
+---
+
+RandoMath asks random math puzzles. The circuit uses the Sparksfun Serial LCD and an Arduino.
+
+This is a part of the [ThinkerToys](http://dhairyadand.com/thinkertoys) project.
